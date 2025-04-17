@@ -26,18 +26,15 @@ OnlineQuiz/ │ ├── src/ │ ├── Main.java │ ├── Quiz.java �
    ```bash
    git clone https://github.com/yourusername/OnlineQuiz.git
    cd OnlineQuiz
-Compile the Java files
+2. Compile the Java files
 
-bash
-Copy
-Edit
-javac src/*.java
-Run the application
+    ```bash
+    javac src/*.java
+3. Run the application
+   
+    ```bash
+    java src.Main
 
-bash
-Copy
-Edit
-java src.Main
 📝 Future Improvements
 Add a login system for users and admins
 
@@ -49,5 +46,3 @@ Generate reports and analytics
 
 📬 Contact
 Nikhil Sharma
-📧 nikhilsharma@gmail.com
-🔗 LinkedIn | GitHub
